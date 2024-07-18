@@ -9,7 +9,7 @@ titulo  = Label(calculadora, text = 'CALCULADORA', font = 20)
 
 display = Label(calculadora, text = '', width = 30, borderwidth = 5, background = '#d3d3d3', fg = 'black')
 
-# |=======| FUNÇOES |=======|
+# |=======| FUNÇÕES |=======|
 
 # ======= APERTAR O BOTÃO - FAZER APARECER NO DISPLAY =======
 def pressionar_botao(valor):
